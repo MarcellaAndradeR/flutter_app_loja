@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852301277150",
+    "firebase_url": "https://loja-flutter-5d2c4.firebaseio.com",
+    "project_id": "loja-flutter-5d2c4",
+    "storage_bucket": "loja-flutter-5d2c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852301277150:android:d15dba843aa511da471f4f",
+        "android_client_info": {
+          "package_name": "appguamarem.andrade.com.br.flutter_app_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852301277150-hd24p1cdr9v5tb9pe1bo5mhrisc10h2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOF3Q1_f-npMF71QPvF3ynlNZdnih9HDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852301277150-hd24p1cdr9v5tb9pe1bo5mhrisc10h2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
