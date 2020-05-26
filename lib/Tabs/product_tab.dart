@@ -14,8 +14,8 @@ class ProductTab extends StatelessWidget {
           );
         else {
 
-          var dividedTiles = ListTile.dividerTile(
-            tile: snapshot.data.documents.map(
+          var dividedTiles = ListTile.divideTiles(
+            tiles: snapshot.data.documents.map(
                   (doc) {
                 return CategoryTile(doc);
               }).toList(),
